@@ -1,0 +1,31 @@
+{
+  "name": "Call-Code-Employee-Management-System",
+  "version": "1.0.0",
+  "description": "Employee Management System",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.3",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeders/seed.js"
+  },
+    "type": "git",
+    "url": "git+https://github.com/codeyab22/Call-Code-Employee-Management-System"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeyab22/Call-Code-Employee-Management-System/issues"
+  },
+  "homepage": "https://github.com/codeyab22/Call-Code-Employee-Management-System/blob/main/README.md"
+}
