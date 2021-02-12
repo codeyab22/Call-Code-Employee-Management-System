@@ -14,13 +14,12 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-     "start": "node server.js",
+    "start": "node server.js",
     "watch": "nodemon server.js",
     "seed": "node seeders/seed.js"
   },
-    "type": "git",
-    "url": "git+https://github.com/codeyab22/Call-Code-Employee-Management-System"
-  },
+  "type": "git",
+  "url": "git+https://github.com/codeyab22/Call-Code-Employee-Management-System",
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -29,3 +28,10 @@
   },
   "homepage": "https://github.com/codeyab22/Call-Code-Employee-Management-System/blob/main/README.md"
 }
+
+
+
+
+
+
+
