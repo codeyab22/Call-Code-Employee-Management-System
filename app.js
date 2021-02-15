@@ -8,7 +8,7 @@ var view = require("./lib/view");
 var connection = mysql.createConnection({
   host: "localhost",
   port: 3306,
-  user: "codeyab22",
+  user: "root",
   password: "Codeyab.24dec",
   database: "company_db"
 });
